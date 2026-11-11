@@ -4,6 +4,8 @@ Weekday-updated shortlist of pharmaceutical and medical-device quality, complian
 
 Live report: https://niransh84.github.io/JobSearch/job_search_R.html
 
+A second report, job_search_N.html, is live at https://niransh84.github.io/JobSearch/job_search_N.html
+
 The report has three tables:
 
 - Shortlist: roles at 70% fit or higher
